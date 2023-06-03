@@ -1,5 +1,0 @@
-Acc_No,SNN,Balance,Type
-1,1,12000,Savings account
-2,2,9000,current account
-3,3,65000,current account
-4,4,5000,Savings account
